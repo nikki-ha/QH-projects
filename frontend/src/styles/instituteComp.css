@@ -1,0 +1,25 @@
+.affiliate-comp {
+    border: 1px solid red;
+}
+
+.org-text {
+    border: 1px solid red;
+}
+
+#org-name {
+    border: 1px solid red;
+}
+
+#org-description {
+    border: 1px solid red;
+}
+
+#affiliate-img {
+    width: 200px;
+    height: 200px;
+    border: 1px solid red;
+}
+
+#affiliate-header {
+    border: 1px solid red;
+}

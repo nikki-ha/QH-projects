@@ -1,10 +1,10 @@
 import React from "react";
-import '../styles/signupAffiliate.css';
+import '../styles/Institution.css';
 
-const SignUpAffiliateScreen = () => {
+const SignUpInstitutionScreen = () => {
     return (
-        <h2>Sign Up for Affiliates</h2>
+        <h2>Sign Up for Institutions</h2>
     )
 }
 
-export default SignUpAffiliateScreen;
+export default SignUpInstitutionsScreen;
