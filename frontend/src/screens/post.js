@@ -11,14 +11,11 @@ const PostScreen = () => {
             </head>
 
             <body>
-                <div class="header">
-                    <h1>QXR</h1>
-                </div>
 
                 <br></br>
                 
                 <div class="left">
-                    <button onclick="history.()" class="button">Go Back</button>
+                    <button href="" class="button">Back to Search</button>
                 </div>    
 
                 <br></br>
