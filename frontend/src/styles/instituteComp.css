@@ -1,27 +1,28 @@
 .institute-comp {
-    border: 1px solid red;
+    /* border: 1px solid red; */
     width: 100%;
     height: 100%;
 }
 
 .org-text {
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 #org-name {
-    border: 1px solid red;
+    /* border: 1px solid red; */
+    font-weight: bold;
 }
 
 #org-description {
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 #institute-img {
     width: 200px;
     height: 200px;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 #institute-header {
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }

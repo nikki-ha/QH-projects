@@ -1,24 +1,45 @@
+.home-screen {
+    background: linear-gradient(180deg, white, #089dd9 );
+    box-sizing: border-box;
+}
+
 .mission-img-div {
     margin: 50px;
     display: flex;
     height: 300px;
-    
+    justify-content: center;
 }
 
 .mission-div {
     margin: 10px;
     overflow: hidden;
+    font-family: 'Helvetica';
 }
 
 #mission-header {
     text-align: center;
+    margin-bottom: 30px;
+    font-weight: bold;
+    color: #175e9e;
 }
 
 #mission-statement {
+    width: 500px;
     text-align: left;
+    font-size: 17px;
+    font-weight: 400;
 }
 
 #home-img {
     width: 300x;
     height: 300px;
+    border-radius: 20px;
+}
+
+#institution-header {
+    text-align: center;
+    margin-bottom: 30px;
+    font-family: 'Helvetica';
+    font-weight: bold;
+    color: #175e9e;
 }

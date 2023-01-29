@@ -23,13 +23,30 @@ const HomeScreen = () => {
             <h1 id="institution-header">Recommended Institutions...</h1>
             <Box ml={6} mr={6}> 
                 <Grid container columns={24} columnSpacing={2} rowSpacing={6}>
-                    {Array.from(Array(8)).map((_, index) => {
-                        return (
-                            <Grid item sm={6} key={index} style={{ maxWidth: '100%'}}>
-                                <InstituteComponent/>
-                            </Grid> 
-                        )
-                    })}
+                    <Grid item sm={6} style={{ maxWidth: '100%'}}>
+                        <InstituteComponent org-name={"UCLA"}/>
+                    </Grid> 
+                    <Grid item sm={6} style={{ maxWidth: '100%'}}>
+                        <InstituteComponent/>
+                    </Grid> 
+                    <Grid item sm={6} style={{ maxWidth: '100%'}}>
+                        <InstituteComponent/>
+                    </Grid> 
+                    <Grid item sm={6} style={{ maxWidth: '100%'}}>
+                        <InstituteComponent/>
+                    </Grid> 
+                    <Grid item sm={6} style={{ maxWidth: '100%'}}>
+                        <InstituteComponent/>
+                    </Grid> 
+                    <Grid item sm={6} style={{ maxWidth: '100%'}}>
+                        <InstituteComponent/>
+                    </Grid> 
+                    <Grid item sm={6} style={{ maxWidth: '100%'}}>
+                        <InstituteComponent/>
+                    </Grid> 
+                    <Grid item sm={6} style={{ maxWidth: '100%'}}>
+                        <InstituteComponent/>
+                    </Grid> 
                 </Grid>
             </Box>
         </div>
