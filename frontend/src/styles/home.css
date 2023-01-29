@@ -1,0 +1,24 @@
+.mission-img-div {
+    margin: 50px;
+    display: flex;
+    height: 300px;
+    
+}
+
+.mission-div {
+    margin: 10px;
+    overflow: hidden;
+}
+
+#mission-header {
+    text-align: center;
+}
+
+#mission-statement {
+    text-align: left;
+}
+
+#home-img {
+    width: 300x;
+    height: 300px;
+}
