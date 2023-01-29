@@ -1,9 +1,10 @@
 import './App.css';
+import LogInScreen from './screens/login';
 
 function App() {
   return (
     <div className="App">
-      <h1>Our App.</h1>
+      <h1 id="title">QXR</h1>
     </div>
   );
 }

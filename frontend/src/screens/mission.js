@@ -1,7 +1,8 @@
 import React from "react";
+import '../styles/mission.css';
 
 const MissionScreen = () => {
-    return(
+    return (
         <h2>Mission</h2>
     )
 }

@@ -1,7 +1,8 @@
 import React from "react";
+import '../styles/search.css';
 
 const SearchScreen = () => {
-    return(
+    return (
         <h2>Search</h2>
     )
 }

@@ -1,7 +1,8 @@
 import React from "react";
+import '../styles/signupAffiliate.css';
 
 const SignUpAffiliateScreen = () => {
-    return(
+    return (
         <h2>Sign Up for Affiliates</h2>
     )
 }

@@ -1,7 +1,8 @@
 import React from "react";
+import '../styles/affiliates.css';
 
 const AffiliatesScreen = () => {
-    return(
+    return (
         <h2>Affiliates</h2>
     )
 }
