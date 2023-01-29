@@ -1,6 +1,5 @@
 import React from "react";
 import AffiliateComp from "../components/affiliateComp";
-import '../styles/affiliates.css';
 import Grid from '@mui/material/Grid';
 import Box from '@mui/material/Box';
 
