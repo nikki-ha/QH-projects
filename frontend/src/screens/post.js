@@ -15,7 +15,7 @@ const PostScreen = () => {
                 <br></br>
                 
                 <div class="left">
-                    <button onclick="./screens/posts" class="button">Back to Search</button>
+                    <button href="/Users/mayhe/Desktop/qwerhacks/QH-projects/frontend/src/screens/browse.js" class="button">Back to Search</button>
                 </div>    
 
                 <br></br>
@@ -37,7 +37,7 @@ Amet mattis vulputate enim nulla aliquet porttitor lacus luctus. Pellentesque el
 
                 <div class="center">
                     <div class="oneline">
-                        <h3>QUALIFICATIONS</h3>
+                        <h2>QUALIFICATIONS</h2>
                         <br></br>
                     </div>
 
