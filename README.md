@@ -14,6 +14,18 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+### 'npm install react-bootstrap bootstrap'
+
+### 'npm install bootstrap react-router-dom'
+
+### 'npm install @mui/material @emotion/react @emotion/styled'
+
+### 'npm install @mui/material @mui/styled-engine-sc styled-components'
+
+### 'npm install --save ag-grid-community'
+
+### 'npm install --save ag-grid-react'
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
