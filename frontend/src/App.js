@@ -9,7 +9,7 @@ import SearchScreen from './screens/search';
 function App() {
   return (
     <div className="App">
-      <PostScreen/>
+      <NavbarComp/>
     </div>
   );
 }
