@@ -1,13 +1,13 @@
 import React from "react";
 import "../styles/instituteComp.css"
 
-const InstituteComponent = ({name}) => {
+const InstituteComponent = ({name, location}) => {
     return (
         <div className="institute-comp">
-            <img id="institute-img" src="https://content.sportslogos.net/logos/35/882/full/4821_ucla_bruins-alternate-1996.png" alt="affiliate-img"/>
+            <img id="institute-img" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Uc_seal_black.png" alt="UC seal"/>
             <div className="org-text">
                 <h3 id="org-name">{name}</h3>
-                <p id="org-description">#1 Public University</p>
+                <p id="org-description">{location}</p>
             </div>
         </div>
     )

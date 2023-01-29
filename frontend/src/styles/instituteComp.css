@@ -10,14 +10,18 @@
 
 #org-name {
     /* border: 1px solid red; */
-    font-weight: 500;
-    font-family: 'Jost';
+    font-weight: 700;
+    font-family: 'Montserrat';
     font-style: italic;
     padding-top: 0.5rem;
+    color: #175e9e;
 }
 
 #org-description {
     /* border: 1px solid red; */
+    text-align: center;
+    font-family: 'Jost';
+    font-weight: 400;
 }
 
 #institute-img {

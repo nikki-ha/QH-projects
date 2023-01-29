@@ -15,29 +15,36 @@ const PostScreen = () => {
                 <br></br>
                 
                 <div class="left">
-                    <button href="/Users/mayhe/Desktop/qwerhacks/QH-projects/frontend/src/screens/browse.js" class="button">Back to Search</button>
+                    <button href="/Users/mayhe/Desktop/qwerhacks/QH-projects/frontend/src/screens/browse.js" class="btn btn-outline-primary">Back to Search</button>
                 </div>    
 
                 <br></br>
 
                 <div class="center oneline">
-                    <h2>ORG NAME</h2>
-                    <button class="button contact">Contact</button>
+                    <h2 id="orgname">Organization Name</h2>
+                    <button class="btn btn-secondary">Contact</button>
                 </div>
 
                 <div class="center">
-                    <p>[location], [affiliation]</p>
+                    <p><i>Location, affiliation</i></p>
                     <br></br>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Velit aliquet sagittis id consectetur. Turpis tincidunt id aliquet risus feugiat. Semper feugiat nibh sed pulvinar proin gravida hendrerit lectus a. Arcu non sodales neque sodales ut etiam sit amet. Posuere lorem ipsum dolor sit amet consectetur adipiscing elit. Lacus viverra vitae congue eu consequat. Dolor morbi non arcu risus quis varius quam quisque. Sed ullamcorper morbi tincidunt ornare massa. Tempor orci eu lobortis elementum nibh tellus molestie nunc non. Egestas sed tempus urna et pharetra pharetra massa massa.
-
-Amet mattis vulputate enim nulla aliquet porttitor lacus luctus. Pellentesque elit eget gravida cum sociis natoque penatibus. Senectus et netus et malesuada fames ac. Amet dictum sit amet justo donec enim diam vulputate ut. Ut placerat orci nulla pellentesque dignissim enim sit. Diam vel quam elementum pulvinar. Sed cras ornare arcu dui vivamus arcu felis. Elementum tempus egestas sed sed risus pretium quam. Laoreet non curabitur gravida arcu ac. Est sit amet facilisis magna etiam. Suspendisse potenti nullam ac tortor vitae purus. Nunc congue nisi vitae suscipit tellus.</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                        Velit aliquet sagittis id consectetur. Turpis tincidunt id aliquet risus feugiat. Semper feugiat nibh sed pulvinar proin gravida
+                        hendrerit lectus a. Arcu non sodales neque sodales ut etiam sit amet. Posuere lorem ipsum dolor sit amet consectetur adipiscing elit.
+                        Lacus viverra vitae congue eu consequat. Dolor morbi non arcu risus quis varius quam quisque. Sed ullamcorper morbi tincidunt ornare
+                        massa. Tempor orci eu lobortis elementum nibh tellus molestie nunc non. Egestas sed tempus urna et pharetra pharetra massa massa.
+                        Amet mattis vulputate enim nulla aliquet porttitor lacus luctus. Pellentesque elit eget gravida cum sociis natoque penatibus.
+                        Senectus et netus et malesuada fames ac. Amet dictum sit amet justo donec enim diam vulputate ut. Ut placerat orci nulla
+                        pellentesque dignissim enim sit. Diam vel quam elementum pulvinar. Sed cras ornare arcu dui vivamus arcu felis. Elementum
+                        tempus egestas sed sed risus pretium quam. Laoreet non curabitur gravida arcu ac. Est sit amet facilisis magna etiam. Suspendisse
+                        potenti nullam ac tortor vitae purus. Nunc congue nisi vitae suscipit tellus.</p>
                 </div>
 
                 <hr></hr>
 
                 <div class="center">
                     <div class="oneline">
-                        <h2>QUALIFICATIONS</h2>
+                        <h2 id="quals">Qualifications and specifications</h2>
                         <br></br>
                     </div>
 

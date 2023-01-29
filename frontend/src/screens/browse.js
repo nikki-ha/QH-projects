@@ -22,9 +22,13 @@ const BrowseScreen = () => {
     const containerStyle = { width: '100%', height: '100%' };
 
     const rowData = [
-        {Title: 'Comparing Perioperative Outcomes in Pain Control', ' ' : '', Location: 'San Diego, CA'},
-        {Title: 'Comparing Perioperative Outcomes in Pain Control', ' ' : '', Location: 'San Diego, CA'},
-        {Title: 'Comparing Perioperative Outcomes in Pain Control', ' ' : '', Location: 'San Diego, CA'}
+        {Title: 'Research Study with Trans, Nonbinary or Genderqueer Individuals who Have Been Pregnant', ' ' : '', Location: 'Los Angeles, CA'},
+        {Title: 'Minority Stress & Trauma Lab', ' ' : '', Location: 'Syracuse, NY'},
+        {Title: 'The Impacts of School Experiences and Environment on LGBQ+ Identity Development', ' ' : '', Location: 'Online survey'},
+        {Title: 'Robert Wood Johnson Foundation Evidence for Action Program', ' ' : '', Location: 'Washington, D.C.'},
+        {Title: 'Concerning Experiences of TGNCNB+ People in Healthcare', ' ' : '', Location: 'New York, NY'},
+        {Title: 'Greenburgh LGBTQ+ Needs Assessment', ' ' : '', Location: 'Greenburgh, NY'},
+        {Title: 'Promoting Trauma Recovery for Trans and Gender Diverse Survivors', ' ' : '', Location: 'New York, NY'}
     ];
     const colDefs = [
         {field: 'Title', type: 'leftAligned'},

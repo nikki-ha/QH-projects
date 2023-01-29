@@ -10,7 +10,7 @@ import HomeScreen from './screens/home';
 function App() {
   return (
     <div className="App">
-      <PostScreen/>
+      <NavbarComp/>
     </div>
   );
 }
