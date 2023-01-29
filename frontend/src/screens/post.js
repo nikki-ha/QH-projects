@@ -15,7 +15,7 @@ const PostScreen = () => {
                 <br></br>
                 
                 <div class="left">
-                    <button onclick="./screens/posts" class="button">Back to Search</button>
+                    <button onclick="/screens/browse" class="button">Back to Search</button>
                 </div>    
 
                 <br></br>

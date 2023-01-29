@@ -3,8 +3,9 @@ import './styles/App.css'
 import NavbarComp from './components/NavComp';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import React from 'react';
-// import PostScreen from './screens/post';
-// import SearchScreen from './screens/search';
+import PostScreen from './screens/post';
+import BrowseScreen from './screens/browse';
+import HomeScreen from './screens/home';
 
 function App() {
   return (
