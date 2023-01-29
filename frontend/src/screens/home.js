@@ -3,7 +3,7 @@ import '../styles/home.css';
 
 const HomeScreen = () => {
     return (
-        <h2>Home</h2>
+        <h2>Welcome</h2>
     )
 }
 
