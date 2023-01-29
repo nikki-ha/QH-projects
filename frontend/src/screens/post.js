@@ -11,9 +11,6 @@ const PostScreen = () => {
             </head>
 
             <body>
-                <div class="header">
-                    <h1>QXR</h1>
-                </div>
 
                 <br></br>
                 
