@@ -1,0 +1,31 @@
+.affiliate-comp {
+    display: flex;
+    max-width: 500px;
+    min-width: 500px;
+    border: 1px solid red;
+}
+
+.org-text {
+    text-align: left;
+    margin-left: 20px;
+    text-overflow: ellipsis;
+}
+
+#org-name {
+    font-size: 25px;
+}
+
+#org-description {
+    font-size: 15px;
+}
+
+#affiliate-img {
+    height: 175px;
+    width: 175px;
+    border: 1px solid red;
+}
+
+#affiliate-header {
+    text-align: left;
+    margin-left: 175px;
+}
