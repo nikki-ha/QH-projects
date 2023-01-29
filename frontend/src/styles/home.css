@@ -1,3 +1,7 @@
+.color {
+    background-color: red;
+}
+
 .home-screen {
     background: linear-gradient(180deg, white, #089dd9 );
     box-sizing: border-box;

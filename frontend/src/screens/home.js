@@ -54,6 +54,15 @@ const HomeScreen = () => {
                     </Grid> 
                 </Grid>
             </Box>
+
+            {/* <div className="container-fluid">
+                <div className="row">
+                    <div className="col-sm-3 color">stuff</div>
+                    <div className="col-sm-3">stuff</div>
+                    <div className="col-sm-3 color">stuff</div>
+                    <div className="col-sm-3">stuff</div>
+                </div> */}
+            </div>
         </div>
     )
 }
