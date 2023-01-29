@@ -3,10 +3,10 @@ button {
     padding-top: auto;
 }
 
-.button:hover {
+/* .fill:hover {
     transition: 0.7s;
     background-color: #066e98;
-}
+} */
 
 h1 {
     text-align: left;
@@ -31,13 +31,18 @@ ul {
 
 .center {
     margin: auto;
-    width: 98%;
+    width: 95%;
 }
 
 .contact {
     background-color: #089dd9;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+.contact:hover {
+    transition: 1s;
+    background-color: #066e98;
 }
 
 .header {

@@ -15,12 +15,12 @@ const PostScreen = () => {
                 <br></br>
                 
                 <div class="left">
-                    <button href="" class="button">Back to Search</button>
+                    <button onclick="./screens/posts" class="button">Back to Search</button>
                 </div>    
 
                 <br></br>
 
-                <div class="center, oneline">
+                <div class="center oneline">
                     <h2>ORG NAME</h2>
                     <button class="button contact">Contact</button>
                 </div>
