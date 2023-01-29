@@ -17,7 +17,7 @@ export default class NavbarComp extends Component {
       <Router>
       <div>
           <Navbar className="color-nav" variant={"dark"} expand="sm">
-              <Navbar.Brand href="/home">QXR</Navbar.Brand>
+              <Navbar.Brand href="/home" id="maintitle">QXR</Navbar.Brand>
               <Navbar.Toggle aria-controls="basic-navbar-nav" />
               <Navbar.Collapse id="basic-navbar-nav">
                 <Nav className="ms-auto">

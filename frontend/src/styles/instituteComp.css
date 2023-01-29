@@ -10,7 +10,10 @@
 
 #org-name {
     /* border: 1px solid red; */
-    font-weight: bold;
+    font-weight: 500;
+    font-family: 'Jost';
+    font-style: italic;
+    padding-top: 0.5rem;
 }
 
 #org-description {
