@@ -5,7 +5,6 @@ export default class NavbarComp extends Component {
   render() {
     return (        
     <div>
-        {/* <Router> */}
       <div>
           <Navbar bg="dark" variant={"dark"} expand="lg">
               <Navbar.Brand href="#home">React-Bootstrap</Navbar.Brand>
