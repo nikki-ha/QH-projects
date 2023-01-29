@@ -5,6 +5,12 @@ import Box from '@mui/material/Box';
 import InstituteComponent from "../components/instituteComp.js";
 
 const HomeScreen = () => {
+
+
+  const handleClick = () => {
+    alert("yo auntie");
+  };
+
     return (
         <div className="home-screen">
             <div className="mission-img-div">
